@@ -1,0 +1,15 @@
+{
+	"jok_copyright": {
+		"prefix": "copyright_jok",
+		"body": [
+			"#!/usr/bin/env bash",
+			"",
+			"#-------------------------------------------------------------------------------",
+			"# Purpose: ",
+			"# Author : easytojoin@163.com (Jok)",
+			"# Date   : ${CURRENT_DAY_NAME_SHORT} ${CURRENT_MONTH_NAME_SHORT} ${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} CST ${CURRENT_YEAR}",
+			"#-------------------------------------------------------------------------------"
+		],
+		"description": "jok copyright"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"jok_copyright": {
+		"prefix": "copyright_jok",
+		"body": [
+			"// Copyright ${CURRENT_YEAR} JOK Inc. All Rights Reserved.",
+			"// Author: easytojoin@163.com (jok)"
+		],
+		"description": "jok copyright"
+	}
+}
